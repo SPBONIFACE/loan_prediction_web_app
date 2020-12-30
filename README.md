@@ -9,7 +9,7 @@ This application was deployed online using **Flask** and **Heroku**.
 
 This was my first attempt at deploying a machine learning model.
 
-I decided to start things small, using a plain vanilla **Logistic Regression** model with no preprocessing steps except for missing value imputation. 
+I decided to start things small, using a plain vanilla **Logistic Regression** model with no preprocessing steps except for missing value imputation and encoding of categorical variables. 
 
 Initially my model included several preprocessing steps (scaling, OneHot encoding, feature engineering). Those steps increased marginally model performance. However, my focus was not on achieving the best performance / accuracy possible but on creating a model that could be easily deployed.
 
