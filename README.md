@@ -1,5 +1,5 @@
 # Loan prediction web application
-Deployment of loan prediction model on the web
+Deployment of a loan prediction model on the web
 
 As part of the Dphi Machine Learning bootcamp - advanced track, I had to create a web application for a loan application prediction model (assignment 3).
 
